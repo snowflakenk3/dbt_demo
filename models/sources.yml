@@ -5,4 +5,5 @@ sources:
     schema: cts
     tables:
       - name: BIKES
+      - name: BIKES_V2
       - name: WEATHERS
